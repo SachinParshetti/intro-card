@@ -1,3 +1,3 @@
 # This is a intro card 
-this is card card created with css and css animation
+this is card intro card created with html and css.
 
